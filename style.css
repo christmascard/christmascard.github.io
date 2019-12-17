@@ -1,3 +1,7 @@
+body {
+    margin: 0px;
+}
+
 #card {
     background-color: #165B33;
     width: 100%;
