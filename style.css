@@ -1,3 +1,10 @@
+body {
+}
+
+#canvas {
+    height: 0px;
+}
+
 #card {
     background-color: #165B33;
     width: 100%;
@@ -25,6 +32,7 @@
 }
 
 #start-game {
+    font-weight: bold;
     width: 400px;
     padding: 20px;
     padding-top: 40px;
