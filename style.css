@@ -10,6 +10,7 @@
     max-height: 100%;
     color: white;
     font: 50px Mountains of Christmas;
+    overflow: hidden;
 }
 
 #card-inner {
