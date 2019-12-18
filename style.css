@@ -34,6 +34,7 @@
     margin-top: 100px;
     position: absolute;
     bottom: 100px;
+    left: calc(50% - 220px);
 }
 
 #signature {
