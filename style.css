@@ -21,8 +21,8 @@
 
 #card-text {
     overflow: scroll;
-    height: calc(100% - 300px);
-    max-height: calc(100% - 300px);
+    height: calc(100% - 500px);
+    max-height: calc(100% - 500px);
 }
 
 #start-game {
