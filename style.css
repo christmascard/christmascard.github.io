@@ -20,9 +20,6 @@
 }
 
 #card-text {
-    overflow: scroll;
-    height: calc(100% - 300px);
-    max-height: calc(100% - 300px);
 }
 
 #start-game {
@@ -35,6 +32,8 @@
     font-weight: bold;
     margin: 0 auto;
     margin-top: 100px;
+    position: absolute;
+    bottom: 100px;
 }
 
 #signature {
